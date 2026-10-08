@@ -1,3 +1,5 @@
+name: 9_graylog
+
 services:
   mongodb:
     image: mongo:6.0
