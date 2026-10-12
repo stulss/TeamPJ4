@@ -3,3 +3,16 @@
 __pycache__/
 *.pyc
 .omc/
+
+# Wazuh SSL Certificates & Configurations
+_9_Wazuh/config/
+*.pem
+*.key
+*.crt
+
+# Local security test logs
+*.log
+_7_board_test/logs/
+
+# Local helper scripts
+forward_ids.py
